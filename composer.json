@@ -1,6 +1,6 @@
 {
-    "name": "afaller/psr7-routes-Builder",
-    "description": "library to provide",
+    "name": "afaller/psr7-routes-builder",
+    "description": "Library provides auto routing for every psr-7 & psr-15 application based on folder structure",
     "require": {
         "psr/log": "^1.1",
         "psr/simple-cache": "^1.0",
